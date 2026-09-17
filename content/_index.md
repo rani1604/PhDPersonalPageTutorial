@@ -3,7 +3,7 @@ title: "Dr. Reginald Huffington-Smythe III"
 description: "Professor of Postmodern Semiotics. Amateur Competitive Crossword Solver. Reluctant dog owner."
 ---
 
-I am here learning how to make a website.
+I am here learning how to make wawa
 
 It's not raining today, but getting colder and colder.
 
