@@ -3,8 +3,8 @@ title: "Dr. Reginald Huffington-Smythe III"
 description: "Professor of Postmodern Semiotics. Amateur Competitive Crossword Solver. Reluctant dog owner."
 ---
 
-I am here learning how to make wawa
+FUTURE ANCESTOR
 
-It's not raining today, but getting colder and colder.
+Futurisation of Ancestor Knowledge through music and art experimentation
 
-Outside of work I play the clarinet badly, walk my dog Derrida reluctantly, and have very strong opinions about the Oxford comma that I will share unprompted.
+Electronic Music Composer and Performer - PhD in Sound Heritage Studies
