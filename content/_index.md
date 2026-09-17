@@ -1,6 +1,6 @@
 ---
-title: "Dr. Reginald Huffington-Smythe III"
-description: "Professor of Postmodern Semiotics. Amateur Competitive Crossword Solver. Reluctant dog owner."
+title: "Rani Fitriana"
+description: "PhD Researher in Sound Heritage Studies and Performer as Rani Jambak"
 ---
 
 FUTURE ANCESTOR
