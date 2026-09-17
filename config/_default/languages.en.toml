@@ -1,7 +1,7 @@
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Dr. Reginald Huffington-Smythe III"
+title = "Rani Fitriana"
 
 [params]
   displayName = "English"
@@ -11,9 +11,9 @@ title = "Dr. Reginald Huffington-Smythe III"
   description = "Personal academic website of Dr. Reginald Huffington-Smythe III, Professor of Postmodern Semiotics and Amateur Competitive Crossword Solver."
 
 [params.author]
-  name = "Dr. Reginald Huffington-Smythe III"
-  email = "r.huffington-smythe@university.edu"
-  headline = "Professor of Postmodern Semiotics | Amateur Competitive Crossword Solver"
+  name = "Rani Fitriana"
+  email = "ranijambakmusic@gmail.com"
+  headline = "PhD in Sound Heritage Studies | Electronic Music Composer as Rani Jambak"
   bio = "I study the semiotic implications of things that mean other things. My current project investigates whether laundry instructions constitute a form of oppressive discourse. I have opinions about Derrida that I will share with you whether you asked or not."
   links = [
     { bluesky = "https://bsky.app/profile/yourhandle.bsky.social" },
