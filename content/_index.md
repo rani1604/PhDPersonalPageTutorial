@@ -5,6 +5,3 @@ description: "Professor of Postmodern Semiotics. Amateur Competitive Crossword S
 
 FUTURE ANCESTOR
 
-Futurisation of Ancestor Knowledge through music and art experimentation
-
-Electronic Music Composer and Performer - PhD in Sound Heritage Studies
